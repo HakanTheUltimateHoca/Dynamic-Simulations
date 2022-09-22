@@ -1,2 +1,2 @@
 # Dynamic-Simulations
-My attempt simulate physical systems
+My attempt to simulate physical systems
